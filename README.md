@@ -125,6 +125,8 @@ http://localhost:8080/student-management-system
 
 - The **homepage** (`studentsView.jsp`) displays a complete list of all students stored in the database.
 
+---
+
 ### Validation Details
 
 - **First Name and Last Name**: Only letters and spaces are allowed.
