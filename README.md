@@ -67,8 +67,8 @@ CREATE TABLE student (
     last_name VARCHAR(50),
     email VARCHAR(100),
     gpa FLOAT
-);```
-
+);
+---
 ### 3. Update DB Config
 Update the database connection details in your servlet or configuration file:
 String jdbcUrl = "jdbc:mysql://localhost:3306/student_db";
