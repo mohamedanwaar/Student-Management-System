@@ -67,7 +67,9 @@ CREATE TABLE student (
     last_name VARCHAR(50),
     email VARCHAR(100),
     gpa FLOAT
-);```
+);
+```
+
 ---
 
 ### 3. Update DB Config
